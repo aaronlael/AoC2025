@@ -17,9 +17,7 @@ for id_range in day2.split(","):
 
 print(invalid_total)
 
-
 # part 2
-
 invalid_total_part2 = 0
 
 for id_range in day2.split(","):
