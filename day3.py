@@ -1,7 +1,5 @@
 from input import day3
 
-
-
 example = """987654321111111
 811111111111119
 234234234234278
@@ -23,7 +21,6 @@ print(joltage)
 
 # part 2
 joltage_12 = 0
-
 
 for row in day3.splitlines():
     bank_joltage = ""
